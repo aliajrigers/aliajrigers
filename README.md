@@ -1,10 +1,9 @@
 # Rigers Aliaj
 
-Mathematical physicist working on machine learning, graph neural networks,
-scientific computing and complex quantitative problems.
+**Physics and mathematics researcher working with artificial intelligence,
+graph neural networks, mathematical modelling, and scientific computing.**
 
-## Personal website
+I enjoy understanding complex problems, explaining them clearly, and developing
+analytical and computational methods to solve them.
 
-For my CV, publications, projects and research interests, visit:
-
-[Visit my personal website](https://aliajrigers.github.io)
+[CV](LINK) · [Publications](LINK) · [LinkedIn](LINK)
