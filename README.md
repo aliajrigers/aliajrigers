@@ -6,4 +6,4 @@ graph neural networks, mathematical modelling, and scientific computing.**
 I enjoy understanding complex problems, explaining them clearly, and developing
 analytical and computational methods to solve them.
 
-[CV](LINK) · [Publications](LINK) · [LinkedIn](LINK)
+[CV] · [Publications](https://inspirehep.net/authors/2085179?ui-citation-summary=true) · [LinkedIn](https://www.linkedin.com/in/rigers-aliaj-136559b0/?skipRedirect=true)
