@@ -1,9 +1,8 @@
 # Rigers Aliaj
 
-**Physics and mathematics researcher working with artificial intelligence,
-graph neural networks, mathematical modelling, and scientific computing.**
+**Applied AI / Machine Learning Engineer with a background in theoretical physics and mathematics, working across deep learning, graph neural networks, mathematical modelling, optimisation, and scientific computing.**
 
-I enjoy understanding complex problems, explaining them clearly, and developing
-analytical and computational methods to solve them.
+I enjoy turning complex, ambiguous problems into practical computational solutions — from understanding the underlying structure and developing the right methods to implementing, testing, and improving systems that solve real-world problems.
+
 
 [CV](files/cv.pdf) · [Publications](https://inspirehep.net/authors/2085179?ui-citation-summary=true) · [LinkedIn](https://www.linkedin.com/in/rigers-aliaj-136559b0/?skipRedirect=true)
